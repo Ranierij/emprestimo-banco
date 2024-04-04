@@ -3,7 +3,7 @@
 
 ### Professor: Kalil [Github](https://github.com/profKalil)
 
-### Autor: *Ranieri Jesuino*
+### Autor: *Ranieri Jesuino* [Github](https://github.com/Ranierij)
 
 <img src= "https://pb.senac.br/wp-content/uploads/2018/02/arquivo-teste-da-TI_Webservice.jpg">
 
